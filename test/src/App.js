@@ -4,6 +4,8 @@ import Home from './components/Home';
 import About from './components/About';
 import RootLayout from './Navigation/RootLayout';
 
+// a small change
+
 const router = createBrowserRouter([
   {
     path: "/",
